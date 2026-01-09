@@ -1,1 +1,0 @@
-# GenAI_internship_Data-Science
